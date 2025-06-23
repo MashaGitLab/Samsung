@@ -1,0 +1,298 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="461f37bd-ed01-4c71-a888-89c15ea616c5" name="Changes" comment="samsung" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="CSS File" />
+        <option value="HTML File" />
+        <option value="Interface" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="HighlightingSettingsPerFile">
+    <setting file="file://$PROJECT_DIR$/src/main/java/com/maria/web_access/controllers/MainController.java" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/src/main/java/com/maria/web_access/controllers/PhpController.java" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/src/main/java/com/maria/web_access/controllers/UserSensorsController.java" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/src/main/resources/templates/main_page2.ftlh" root0="FORCE_HIGHLIGHTING" root1="FORCE_HIGHLIGHTING" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="mavenHome" value="Use Maven wrapper" />
+        <option name="useMavenConfig" value="true" />
+      </MavenGeneralSettings>
+    </option>
+  </component>
+  <component name="ProjectId" id="2epid4Zlp0OaCyRR44HxgYAEupb" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "DefaultHtmlFileTemplate": "HTML File",
+    "RequestMappingsPanelOrder0": "0",
+    "RequestMappingsPanelOrder1": "1",
+    "RequestMappingsPanelWidth0": "75",
+    "RequestMappingsPanelWidth1": "75",
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "WebServerToolWindowFactoryState": "false",
+    "last_opened_file_path": "C:/Shvetsova",
+    "list.type.of.created.stylesheet": "CSS",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm",
+    "project.structure.last.edited": "Project",
+    "project.structure.proportion": "0.15",
+    "project.structure.side.proportion": "0.2",
+    "settings.editor.selected.configurable": "reference.settingsdialog.project.grazie",
+    "spring.configuration.checksum": "a5f67929de040f1ad30eda692c897625",
+    "vue.rearranger.settings.migration": "true"
+  },
+  "keyToStringList": {
+    "DatabaseDriversLRU": [
+      "mysql"
+    ]
+  }
+}]]></component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\YodaB\IdeaProjects\Shvetsova\src\main\resources\templates\parts" />
+      <recent name="C:\Users\mat55\IdeaProjects\web_access\src\main\resources\templates" />
+      <recent name="C:\Users\mat55\IdeaProjects\web_access\src\main\java\com\kofanov\web_access\domain" />
+      <recent name="C:\Users\mat55\IdeaProjects\web_access\src\main\java\com\kofanov\web_access\domain\entity" />
+    </key>
+    <key name="ExtractSuperBase.RECENT_KEYS">
+      <recent name="com.kofanov.web_access.config" />
+    </key>
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="com.kofanov.web_access.domain.dto" />
+      <recent name="com.kofanov.web_access.controllers" />
+      <recent name="com.kofanov.web_access.configы" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Spring Boot.WebAccessApplication (4)">
+    <configuration name="WebAccessApplication (1)" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <option name="ACTIVE_PROFILES" />
+      <module name="hackaton" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.maria.web_access.WebAccessApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="WebAccessApplication (2)" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <option name="ACTIVE_PROFILES" />
+      <module name="IB_diplom" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.maria.web_access.WebAccessApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="WebAccessApplication (3)" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <option name="ACTIVE_PROFILES" />
+      <module name="IVT_diplom" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.maria.web_access.WebAccessApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="WebAccessApplication (4)" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="Shvetsova" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.maria.web_access.WebAccessApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="WebAccessApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <option name="ACTIVE_PROFILES" />
+      <module name="IVT_diplom" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.maria.web_access.WebAccessApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <list>
+      <item itemvalue="Spring Boot.WebAccessApplication (4)" />
+      <item itemvalue="Spring Boot.WebAccessApplication (3)" />
+      <item itemvalue="Spring Boot.WebAccessApplication (2)" />
+      <item itemvalue="Spring Boot.WebAccessApplication" />
+      <item itemvalue="Spring Boot.WebAccessApplication (1)" />
+    </list>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="461f37bd-ed01-4c71-a888-89c15ea616c5" name="Changes" comment="" />
+      <created>1712608004729</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1712608004729</updated>
+      <workItem from="1712608006174" duration="5756000" />
+      <workItem from="1712676945219" duration="15692000" />
+      <workItem from="1712861385263" duration="1499000" />
+      <workItem from="1712915277263" duration="2600000" />
+      <workItem from="1712920067284" duration="1849000" />
+      <workItem from="1713111100166" duration="16166000" />
+      <workItem from="1713176348350" duration="1597000" />
+      <workItem from="1713179413145" duration="7487000" />
+      <workItem from="1713193504464" duration="8238000" />
+      <workItem from="1713264311082" duration="3258000" />
+      <workItem from="1713350685482" duration="2755000" />
+      <workItem from="1713373787094" duration="801000" />
+      <workItem from="1713603543366" duration="1756000" />
+      <workItem from="1714215506757" duration="2277000" />
+      <workItem from="1714229623333" duration="789000" />
+      <workItem from="1714239884930" duration="4814000" />
+      <workItem from="1714248714499" duration="4757000" />
+      <workItem from="1714293310077" duration="10031000" />
+      <workItem from="1715020462254" duration="425000" />
+      <workItem from="1715075162557" duration="1317000" />
+      <workItem from="1715522815800" duration="5350000" />
+      <workItem from="1715537872909" duration="1481000" />
+      <workItem from="1716129097757" duration="7260000" />
+      <workItem from="1716194617420" duration="770000" />
+      <workItem from="1716372660806" duration="279000" />
+      <workItem from="1716543459844" duration="627000" />
+      <workItem from="1717164643761" duration="454000" />
+      <workItem from="1717328711869" duration="8353000" />
+      <workItem from="1717580647678" duration="11425000" />
+      <workItem from="1718097652542" duration="6476000" />
+      <workItem from="1718194280279" duration="2296000" />
+      <workItem from="1718216193638" duration="614000" />
+      <workItem from="1718357507457" duration="1750000" />
+      <workItem from="1718388489031" duration="2088000" />
+      <workItem from="1718556064930" duration="1291000" />
+      <workItem from="1718702819227" duration="1572000" />
+      <workItem from="1718720377775" duration="5459000" />
+      <workItem from="1718821306312" duration="1301000" />
+      <workItem from="1719226640318" duration="110000" />
+      <workItem from="1719337536987" duration="827000" />
+      <workItem from="1719858824548" duration="537000" />
+      <workItem from="1719904977467" duration="671000" />
+      <workItem from="1720516982988" duration="9950000" />
+      <workItem from="1720868383583" duration="11800000" />
+      <workItem from="1720963454114" duration="17000" />
+      <workItem from="1739522871780" duration="781000" />
+      <workItem from="1739783453853" duration="616000" />
+      <workItem from="1739796164625" duration="3632000" />
+      <workItem from="1739863496251" duration="11762000" />
+      <workItem from="1739949232501" duration="6001000" />
+      <workItem from="1739984606995" duration="4341000" />
+      <workItem from="1740469705749" duration="1812000" />
+      <workItem from="1740481174368" duration="630000" />
+      <workItem from="1740502806553" duration="1500000" />
+      <workItem from="1740509993790" duration="2275000" />
+      <workItem from="1746262742334" duration="12853000" />
+      <workItem from="1746278473446" duration="8000" />
+      <workItem from="1746702021538" duration="9482000" />
+      <workItem from="1746711700111" duration="6000" />
+      <workItem from="1746889721085" duration="10221000" />
+      <workItem from="1746900063772" duration="1996000" />
+      <workItem from="1747659299541" duration="1616000" />
+      <workItem from="1747852974557" duration="620000" />
+      <workItem from="1748450440683" duration="619000" />
+      <workItem from="1749408359553" duration="647000" />
+      <workItem from="1750182242148" duration="654000" />
+      <workItem from="1750194259255" duration="667000" />
+      <workItem from="1750692252440" duration="2756000" />
+    </task>
+    <task id="LOCAL-00001" summary="samsung">
+      <created>1750692946503</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1750692946503</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="samsung" />
+    <option name="LAST_COMMIT_MESSAGE" value="samsung" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/com/maria/web_access/controllers/UserSensorsController.java</url>
+          <line>27</line>
+          <option name="timeStamp" value="2" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/com/maria/web_access/controllers/UserSensorsController.java</url>
+          <line>61</line>
+          <option name="timeStamp" value="4" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/com/maria/web_access/controllers/MainController.java</url>
+          <line>29</line>
+          <option name="timeStamp" value="5" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/com/maria/web_access/controllers/RegistrationController.java</url>
+          <line>65</line>
+          <option name="timeStamp" value="6" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/com/maria/web_access/controllers/RegistrationController.java</url>
+          <line>82</line>
+          <option name="timeStamp" value="7" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/com/maria/web_access/controllers/RegistrationController.java</url>
+          <line>128</line>
+          <option name="timeStamp" value="8" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/com/maria/web_access/controllers/RegistrationController.java</url>
+          <line>90</line>
+          <option name="timeStamp" value="9" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/com/maria/web_access/controllers/RegistrationController.java</url>
+          <line>88</line>
+          <option name="timeStamp" value="10" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/com/maria/web_access/controllers/RegistrationController.java</url>
+          <line>86</line>
+          <option name="timeStamp" value="11" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+</project>
